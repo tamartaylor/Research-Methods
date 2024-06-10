@@ -15,7 +15,7 @@ The labelset table of 100 items in "Eilat Corals" list looks like this (e.g., th
 | *Acropora* |Acrop | Hard coral |
 | *Alveopora* | Alveo | Hard coral |
 
-![alt text](<c:\Users\taylor\Documents\GitHub\Research-Methods\CoralNet annotation pic.jpg>)
+![alt text](c:\Users\taylor\Documents\GitHub\Research-Methods\CoralNet annotation pic.jpg)
 
 Figure 1: Eilat Corals label set list and photo annotation menu in CoralNet
 
