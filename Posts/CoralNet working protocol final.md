@@ -15,7 +15,7 @@ The labelset table of 100 items in "Eilat Corals" list looks like this (e.g., th
 | *Acropora* |Acrop | Hard coral |
 | *Alveopora* | Alveo | Hard coral |
 
-![alt text](<CoralNet annotation pic.jpg>)
+![alt text](Images/CoralNet annotation pic.jpg)
 Figure 1: Eilat Corals label set list and photo annotation menu in CoralNet
 
 ## <ins> Total numbers of observations of functional groups in "Japanese Gardens":
