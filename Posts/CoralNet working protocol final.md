@@ -1,7 +1,7 @@
 # <ins>CoralNet working protocol
 In order to use CoralNet open source software to identify corals (and species from other groups) I created unique ID list for my research named: **"Eilat Corals"**.
 
-## [Eilat Corals list](https://coralnet.ucsd.edu/source/4342/labelset/)
+## [Eilat Corals list](/Images/CoralNet%20annotation%20pic.jpg)
 # <ins>CoralNet working protocol
 
 ### Some values on the list I could find by lookup in the CoralNet general list, and some I had to create myself. 
